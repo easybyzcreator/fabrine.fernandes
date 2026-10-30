@@ -1,0 +1,3 @@
+Cole o seu arquivo de vídeo 'cerebro_puzzle.mp4' nesta pasta 'public'.
+O site irá ler o vídeo automaticamente deste local!
+https://drive.google.com/file/d/1KoYH4qEzkw0GgLscxqQtPmFSLqIz5A0F/view?usp=drive_link

@@ -1,0 +1,17 @@
+{
+  "short_name": "Fabrine Fernandes",
+  "name": "FABRINE FERNANDES - NEUROPSICOPEDAGOGA",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/9kTRYjtC/fabrine-logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FAF4EE",
+  "theme_color": "#D4AF37",
+  "display": "standalone",
+  "orientation": "portrait"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "FABRINE FERNANDES - NEUROPSICOPEDAGOGA",
+  "description": "Página oficial e interativa para a neuropsicopedagoga Fabrine. Apresenta atendimentos, metodologia, mentorias, cursos, livros publicados e suporte inteligente com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
